@@ -7,8 +7,12 @@
   <title>{{ page_title }} – {{ shop.name }}</title>
   {{ content_for_header }}
 
-  <!-- Tailwind compilado -->
-  {{ 'theme.css' | asset_url | stylesheet_tag }}
+    {{ content_for_header }}
+  <link rel="stylesheet" href="{{ 'theme.css' | asset_url }}">
+  <script src="{{ 'theme.js' | asset_url }}"></script>
+
+  {% section 'landing-nutrivet' %}
+  {% section 'footer' %}
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
