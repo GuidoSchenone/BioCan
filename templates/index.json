@@ -1,8 +1,11 @@
 {
   "sections": {
-    "main": {
-      "type": "landing-nutrivet"
+    "hero": {
+      "type": "landing-nutrivet",
+      "settings": {
+        "hero_title": "Welcome to NutriVet"
+      }
     }
   },
-  "order": ["main"]
+  "order": ["hero"]
 }
