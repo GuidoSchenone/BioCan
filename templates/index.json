@@ -1,1 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "landing-main"
+    }
+  },
+  "order": ["main"]
+}
 
