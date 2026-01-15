@@ -1,7 +1,7 @@
 {
   "sections": {
     "hero": {
-      "type": "landing-nutrivet",
+      "type": "landing-nutrivet.liquid",
       "settings": {
         "hero_title": "Welcome to NutriVet"
       }
