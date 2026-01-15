@@ -1,9 +1,8 @@
 {
   "sections": {
     "main": {
-      "type": "landing-main"
+      "type": "landing-nutrivet"
     }
   },
   "order": ["main"]
 }
-
