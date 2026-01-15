@@ -1,1 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "NUTRIVET - Suplemento Multivitamínico para Perros",
+      "handle": "nutrivet-multivitaminico-perros",
+      "description": "NUTRIVET es un suplemento completo que mejora la energía, fortalece el sistema inmune, mantiene piel y pelaje saludables y cuida huesos y articulaciones. Fórmula veterinaria 100% natural.",
+      "price": "42990",
+      "currency": "ARS",
+      "available": true,
+      "images": [
+        {"src": "biocan-landing-1.png", "alt": "NUTRIVET Principal"},
+        {"src": "biocan-landing-2.png", "alt": "NUTRIVET Beneficios"},
+        {"src": "biocan-landing-3.png", "alt": "NUTRIVET Ingredientes"},
+        {"src": "biocan-landing-4.png", "alt": "NUTRIVET Funcional"},
+        {"src": "biocan-landing-6-horizontalframe.png", "alt": "NUTRIVET Frame Horizontal"}
+      ],
+      "variants": [
+        {
+          "id": 101,
+          "title": "1 Tarro - Tratamiento 30 días",
+          "price": "42990",
+          "compare_at_price": "55000",
+          "available": true
+        },
+        {
+          "id": 102,
+          "title": "2 Tarros - Tratamiento 60 días",
+          "price": "75980",
+          "compare_at_price": "95980",
+          "available": true
+        },
+        {
+          "id": 103,
+          "title": "3 Tarros - Tratamiento 90 días",
+          "price": "107970",
+          "compare_at_price": "143970",
+          "available": true
+        }
+      ],
+      "tags": ["multivitaminico", "perros", "suplemento", "naturales", "probióticos"]
+    }
+  ],
+  "footer_images": [
+    {"src": "biocan-landing-footer.png", "alt": "Footer 1"},
+    {"src": "biocan-landing-footer-2.png", "alt": "Footer 2"},
+    {"src": "biocan-landing-footer-3.png", "alt": "Footer 3"},
+    {"src": "biocan-landing-footer-4.png", "alt": "Footer 4"}
+  ]
+}
 
