@@ -7,7 +7,7 @@
   <title>{{ page_title }} – {{ shop.name }}</title>
   {{ content_for_header }}
 
-  <!-- Tailwind -->
+  <!-- Tailwind CSS -->
   {{ '//cdn.tailwindcss.com' | script_tag }}
 
   <!-- Theme CSS -->
@@ -22,8 +22,10 @@
 
 <body class="bg-green-100">
 
+  <!-- Contenido principal de Shopify -->
   {{ content_for_layout }}
 
+  <!-- Tu JavaScript separado -->
   {{ 'theme.js' | asset_url | script_tag }}
 </body>
 </html>
