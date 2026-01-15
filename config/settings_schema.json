@@ -1,1 +1,25 @@
+[
+  {
+    "name": "General",
+    "settings": [
+      {
+        "type": "text",
+        "id": "hero_title",
+        "label": "Hero Title",
+        "default": "Bienvenidos a NutriVet"
+      },
+      {
+        "type": "text",
+        "id": "hero_subtitle",
+        "label": "Hero Subtitle",
+        "default": "Healthy pets start here"
+      },
+      {
+        "type": "image_picker",
+        "id": "hero_image",
+        "label": "Hero Image"
+      }
+    ]
+  }
+]
 
