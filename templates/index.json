@@ -11,7 +11,17 @@
   "sections": {
     "hero": {
       "type": "landing-nutrivet",
-      "settings": {}
+      "settings": {
+        "product_img_1": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-1.png?v=1768505797",
+        "product_img_2": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-2.png?v=1768505797",
+        "product_img_3": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-3.png?v=1768505797",
+        "product_img_4": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-4.png?v=1768505797",
+        "horizontal_frame": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-6-horizontalframe_png.png?v=1768505810",
+        "footer_img_1": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-footer.png?v=1768505798",
+        "footer_img_2": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-footer-2.png?v=1768505797",
+        "footer_img_3": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-footer-3.png?v=1768505797",
+        "footer_img_4": "https://cdn.shopify.com/s/files/1/0759/6962/6309/files/biocan-landing-footer-4.png?v=1768505797"
+      }
     }
   },
   "order": [
