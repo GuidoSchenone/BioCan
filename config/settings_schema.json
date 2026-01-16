@@ -19,7 +19,15 @@
         "id": "hero_image",
         "label": "Hero Image"
       }
-    ]
-  }
-]
+      {
+      "name": "Nutrivet Footer Image",
+      "settings": [
+      {
+      "type": "image_picker",
+      "id": "footer_image",
+      "label": "Imagen footer"
+      }
+      ]
+    }
+  ]
 
